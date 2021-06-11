@@ -6,7 +6,7 @@ SuperTools es un proyecto de una página web, que como su nombre lo dice, es ace
 
 - Lo primero que haremos, será tener descargado e instalado xampp, si aun no lo tenemos podremos hacerlo a travez de este link: https://www.apachefriends.org/es/download.html Aqui buscaremos la version de nuestra preferencia.
 
-- Entraremos a nuestra carpeta "disco local/xampp/htdocs" y crearemos una carpeta con el nombre "example.com", descargaremos las carpetas y archivos de este repositorio y las colocaremos dentro de ella
+- Entraremos a nuestra carpeta "disco local/xampp/htdocs" y crearemos una carpeta con el nombre "example.com", descargaremos las carpetas y archivos de este repositorio y las colocaremos dentro de ella.
 
 - Ahora haremos la configuracion para que nuestro proyecto sea visible;
 
@@ -33,7 +33,7 @@ SuperTools es un proyecto de una página web, que como su nombre lo dice, es ace
 
 - Abrimos nuestro navegador y en la barra de busqueda escribimos el nombre que le asignamos a nuestra carpeta y si todo lo hicimos correctamente, debería abrir el archivo ya con nuestra pagina, pero notaremos algo, no hay productos.
 
-- Para  ver los productos tenemos que ir a nuestro navegador e ingresar al "http://localhost/phpmyadmin/sql.php" ahí crearemos una base de datos llamada "almacen" y dentro de ella una tabla llamada "productos", ahi tenemos que insertar el nombre, precio, marca, material, stock y una direccion de imagen de cada producto, despues de insertar los articulos actualizaremos y ya se podrá observar el catálogo en la página.
+- Para  ver los productos tenemos que ir a nuestro navegador e ingresar al "http://localhost/phpmyadmin/sql.php" ahí crearemos una base de datos llamada "almacen" y dentro de ella una tabla llamada "herramienta", ahi tenemos que insertar el nombre, precio, marca, material, stock y una direccion de imagen de cada producto, despues de insertar los articulos actualizaremos y ya se podrá observar el catálogo en la página.
 
 ## Especificaciones
 - Lenguaje de programación: PHP.
@@ -51,11 +51,11 @@ SuperTools es un proyecto de una página web, que como su nombre lo dice, es ace
 
 ## Base de datos
 Para poder completar este proyecto ocupamos la ayuda de una base de datos, en este caso usamos mySQL de phpMyadmin.
-Realizamos una base de datos el cual su nombre es “almacén”, además, Por el momento solo utilizamos una tabla, la que en mi caso su nombre es “herramienta” en esta registramos los productos de nuestro catálogo:
+Realizamos una base de datos el cual su nombre es “almacén”, además, Por el momento solo utilizamos una tabla, la que en este caso su nombre es “herramienta” en esta registramos los productos de nuestro catálogo.
 
 
 ## Autor
-- Joel Peña Romero
+- Joel Peña Romero.
 
 ## License
 - MIT
