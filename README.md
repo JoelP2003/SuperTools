@@ -8,6 +8,7 @@
 3.- Ahora haremos la configuracion para que nuestro proyecto sea visible;
 
 - Nos dirigiremos a la carpeta "disco local/xampp/apache/conf/extra" y buscaremos el archivo "httpd-vhosts", lo abriremos para editarlo, ya dentro del archivo nos iremos a la parte de abajo y pegaremos lo siguiente:
+
 <VirtualHost *:80>
     ServerAdmin example.com
     DocumentRoot "C:/xampp/htdocs/example.com/public"
