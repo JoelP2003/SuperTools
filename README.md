@@ -47,10 +47,7 @@ Las posibilidades en mi parecer en México, son muy altas ya que todos nosotros 
 
 ## Especificaciones 
 
-Altas: Puedes agregar productos nuevos a la base de datos cada vez que sea necesario.
-
-Bajas: Eliminar un producto no será un problema, solo da clic a un botón y el sistema lo eliminará automáticamente.
- 
-Consultas: Te permite hacer búsquedas dentro del sistema para encontrar un producto en específico.
- 
-Cambios: Te permite alterar los datos introducidos anteriormente de un producto, y actualizarlo de acuerdo a tu preferencia.
+- Altas: Puedes agregar productos nuevos a la base de datos cada vez que sea necesario.
+- Bajas: Eliminar un producto no será un problema, solo da clic a un botón y el sistema lo eliminará automáticamente.
+- Consultas: Te permite hacer búsquedas dentro del sistema para encontrar un producto en específico.
+- Cambios: Te permite alterar los datos introducidos anteriormente de un producto, y actualizarlo de acuerdo a tu preferencia.
