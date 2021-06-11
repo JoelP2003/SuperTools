@@ -26,7 +26,7 @@ SuperTools es un proyecto de una página web, que como su nombre lo dice, es ace
 </VirtualHost>
 (En mi caso fue example.com, pero necesitan poner el nombre que eligieron para su host)
 
-2.-- Ahora nos pasaremos a la carpeta "disco local/windows/system32/drivers/etc" y avriremos el archivo "hosts" y pegaremos la siguiente linea:
+2.- Ahora nos pasaremos a la carpeta "disco local/windows/system32/drivers/etc" y avriremos el archivo "hosts" y pegaremos la siguiente linea:
 
 127.0.0.1 example.com
 
