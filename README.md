@@ -1,5 +1,5 @@
 # SuperTools
-## Resumen del proyecto
+## ¿Que es SuperTools?
 SuperTools es un proyecto de una página web, que como su nombre lo dice, es acerca de herramientas, es un sistema de altas bajas y consultas, y, además, será desarrollado a través de código html, php y apoyado por un servidor de xampp y mySQL que ya viene instalado con este.
 
 ## Descarga y configuración del sistema
