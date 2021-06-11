@@ -6,7 +6,7 @@ SuperTools es un proyecto de una página web, que como su nombre lo dice, es ace
 
 - Lo primero que haremos, será tener descargado e instalado xampp, si aun no lo tenemos podremos hacerlo a travez de este link: https://www.apachefriends.org/es/download.html Aqui buscaremos la version de nuestra preferencia.
 
-- Entraremos a nuestra carpeta "disco local/xampp/htdocs" y haremos una carpeta con el nombre de nuestra preferencia y la terminacion ".com", en mi caso fue "example.com", descargaremos las carpetas y archivos de este repositorio y las colocaremos dentro de ella
+- Entraremos a nuestra carpeta "disco local/xampp/htdocs" y crearemos una carpeta con el nombre de nuestra preferencia y la terminacion ".com", en mi caso fue "example.com", descargaremos las carpetas y archivos de este repositorio y las colocaremos dentro de ella
 
 - Ahora haremos la configuracion para que nuestro proyecto sea visible;
 
@@ -47,6 +47,11 @@ SuperTools es un proyecto de una página web, que como su nombre lo dice, es ace
 - Bajas: Eliminar un producto no será un problema, solo da clic a un botón y el sistema lo eliminará automáticamente.
 - Consultas: Te permite hacer búsquedas dentro del sistema para encontrar un producto en específico.
 - Cambios: Te permite alterar los datos introducidos anteriormente de un producto, y actualizarlo de acuerdo a tu preferencia.
+
+## Especificaciones
+Para poder completar este proyecto ocupamos la ayuda de una base de datos, en este caso usamos mySQL de phpMyadmin.
+ Realizamos una base de datos el cual su nombre es “almacén”, además, Por el momento solo utilizamos una tabla, la que en mi caso su nombre es “herramienta” en esta registramos los productos de nuestro catálogo:
+
 
 ## Autor
 - Joel Peña Romero
