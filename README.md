@@ -20,7 +20,7 @@
       AllowOverride All <br />
       Require all granted <br />
     </Directory> <br />
-</VirtualHost> <br />
+</VirtualHost>
 (En mi caso fue example.com, pero necesitan poner el nombre que eligieron para su host)
 
 - Ahora nos pasaremos a la carpeta "disco local/windows/system32/drivers/etc" y avriremos el archivo "hosts" y pegaremos la siguiente linea:
