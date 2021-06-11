@@ -36,7 +36,14 @@ SuperTools es un proyecto de una página web, que como su nombre lo dice, es ace
 ¿Por qué y para qué se va a hacer este proyecto? </br>
 Pienso que este tema de “desarrollar un sitio web” dirigido a las pymes es muy importante ya que, al día de hoy estas pueden ampliar sus catálogos de productos y también su “cobertura” en el mercado. </br> </br>
 ¿Qué posibilidades existen para este proyecto? </br>
-Las posibilidades en mi parecer en México, son muy altas ya que todos nosotros buscamos realizar el trabajo por nuestra propia cuenta, que llamar a alguien para que lo haga por nosotros, y, además, esas herramientas las podemos ocupar para otra situación que sea necesaria, o no tanto. </br>
+Las posibilidades en mi parecer en México, son muy altas ya que todos nosotros buscamos realizar el trabajo por nuestra propia cuenta, que llamar a alguien para que lo haga por nosotros, y, además, esas herramientas las podemos ocupar para otra situación que sea necesaria, o no tanto.
+
+## Especificaciones
+-Lenguaje de programación: PHP.
+-Base de datos: MySQL.
+-Servidor: Apache.
+-FrontEnd: HTML + Bootstrap
+-Sin framework BackEnd.
 
 
 
