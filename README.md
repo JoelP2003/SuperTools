@@ -42,7 +42,7 @@ SuperTools es un proyecto de una página web, que como su nombre lo dice, es ace
 - FrontEnd: HTML + Bootstrap
 - Sin framework BackEnd.
 
-## Especificaciones 
+## Funcionalidades 
 
 - Altas: Puedes agregar productos nuevos a la base de datos cada vez que sea necesario.
 - Bajas: Eliminar un producto no será un problema, solo da clic a un botón y el sistema lo eliminará automáticamente.
