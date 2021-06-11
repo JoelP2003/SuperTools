@@ -9,18 +9,18 @@
 
 - Nos dirigiremos a la carpeta "disco local/xampp/apache/conf/extra" y buscaremos el archivo "httpd-vhosts", lo abriremos para editarlo, ya dentro del archivo nos iremos a la parte de abajo y pegaremos lo siguiente:
 
-<VirtualHost *:80>
-    ServerAdmin example.com
-    DocumentRoot "C:/xampp/htdocs/example.com/public"
-    ServerName example.com
-    ErrorLog "logs/example.com-error.log"
-    CustomLog "logs/example.com-access.log" common
-    <Directory "C:/xampp/htdocs/example.com/public">
-      Options All
-      AllowOverride All
-      Require all granted
-    </Directory>
-</VirtualHost>
+<VirtualHost *:80> <br />
+    ServerAdmin example.com <br />
+    DocumentRoot "C:/xampp/htdocs/example.com/public" <br />
+    ServerName example.com <br />
+    ErrorLog "logs/example.com-error.log" <br />
+    CustomLog "logs/example.com-access.log" common <br />
+    <Directory "C:/xampp/htdocs/example.com/public"> <br />
+      Options All <br />
+      AllowOverride All <br />
+      Require all granted <br />
+    </Directory> <br />
+</VirtualHost> <br />
 (En mi caso fue example.com, pero necesitan poner el nombre que eligieron para su host)
 
 - Ahora nos pasaremos a la carpeta "disco local/windows/system32/drivers/etc" y avriremos el archivo "hosts" y pegaremos la siguiente linea:
