@@ -52,4 +52,3 @@ SuperTools es un proyecto de una página web, que como su nombre lo dice, es ace
 - Joel Peña Romero
 
 ## License
-- MIT
